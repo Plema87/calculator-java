@@ -18,7 +18,7 @@ public class Calculator {
         public static String ToString() {
             return "" + ADDITION_SYMBOL + MULTIPLICATION_SYMBOL + DIVISION_SYMBOL + SUBTRACTION_SYMBOL;
         }
-
+        
     }
 
     public static String Run(String expression) {
