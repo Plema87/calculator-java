@@ -1,0 +1,4 @@
+1. U Programu Calculator nisam pronasao nedostatke osim navedenih u README fajlu iz prethodnog assignmenta.
+2. Kalkulator daje tacne rezultate i podrzava prioritet racunarskih operacija.
+3. Radi boljeg korisnickog iskustva trebalo bi ubaciti tekst prilikom prikazivanja rezultata("Expresion result:") i nakon
+prikazivanja rezultata ponoviti poruku("Enter expression here (type 'exit' to quit):").
